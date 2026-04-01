@@ -13,7 +13,7 @@ import Conversao as c
     
 
 def calculadora():
-    print("\nQual operação deseja fazer?\n1. Soma\n2. subtração\n3. multplicação\n4. divisão\n5. potencia\n6. raiz quadrada\n7. Doliarrrrarrairr ain")
+    print("\nQual operação deseja fazer?\n1. Soma\n2. subtração\n3. multplicação\n4. divisão\n5. potencia\n6. raiz quadrada\n7. Conversao")
     print("\n")
     while(True):
         decisao = int(input("escreva\n"))
